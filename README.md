@@ -10,6 +10,12 @@
 
 ---
 
+## Preview Showcase
+
+![Zenith Apparel Landing Preview](assets/images/preview.jpg)
+
+---
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -61,7 +67,7 @@
 ## Project Structure
 
 ```plaintext
-html_assignment_3/
+zenith-apparel-landing/
 ├── assets/
 │   └── images/
 │       ├── aboutImg.jpg               # About section feature photo
@@ -70,6 +76,7 @@ html_assignment_3/
 │       ├── jeans1.jpg ... jeans3.jpg  # Denim collection products
 │       ├── logo.png                   # Zenith brand logo
 │       ├── missionImage.jpg           # Mission statement imagery
+│       ├── preview.jpg                # Project preview screenshot
 │       └── tshirt1.jpg ... tshirt3.jpg# T-shirts collection products
 ├── css/
 │   └── app.css                        # Main stylesheet with media queries
@@ -103,10 +110,10 @@ html_assignment_3/
 
 ## Getting Started
 
-1. Clone or download the repository:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/<username>/html_assignment_3.git
-   cd html_assignment_3
+   git clone https://github.com/snaimio/zenith-apparel-landing.git
+   cd zenith-apparel-landing
    ```
 2. Open `index.html` in your browser.
 
